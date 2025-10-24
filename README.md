@@ -1,4 +1,4 @@
-#  Hey there! I'm Aman Gupta  
+#  Hey there! I'm Aman Kumar  
 
  A passionate **Computer Science student** at **KR Mangalam University**, focusing on **Backend Web Development**.  
  I enjoy designing practical systems that solve real-world problems and make processes efficient.  
