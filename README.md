@@ -204,10 +204,10 @@ developers grow
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30)](https://www.linkedin.com/in/aman-kumar-682177255)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30)](https://www.linkedin.com/in/aman-kg)
 [![Email](https://img.shields.io/badge/Gmail-Drop_a_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30)](mailto:amandsvv4006@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=30)](https://github.com/amandsvv)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_More-4F46E5?style=for-the-badge&logo=firefox&logoColor=white&logoWidth=30)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_More-4F46E5?style=for-the-badge&logo=firefox&logoColor=white&logoWidth=30)](https://aman-devfolio.vercel.app)
 
 <br>
 
