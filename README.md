@@ -89,38 +89,7 @@ const aman = {
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </div>
-
-</td>
-<td width="50%">
-
-<h3 align="center">Task Handler</h3>
-
-<div align="center">
-<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Type-Productivity-orange?style=for-the-badge" />
-</div>
-
 <br>
-
-**Purpose**: Complete project & task management solution
-
-**Key Features**:
-- Full CRUD operations
-- Intuitive drag-drop interface
-- Progress tracking & analytics
-- Project categorization
-
-**Built With**:  
-`Node.js` • `Express` • `MongoDB` • `Bootstrap`
-
-<div align="center">
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-00D9FF?style=for-the-badge&logo=vercel)](https://github.com/amandsvv/task-handler)
-[![GitHub](https://img.shields.io/badge/View-Code-181717?style=for-the-badge&logo=github)](https://github.com/amandsvv/task-handler)
-
-</div>
-
----
 
 ## GitHub Analytics
 
