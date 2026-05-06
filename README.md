@@ -90,43 +90,6 @@ const aman = {
 
 </div>
 
----
-
-## Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-<h3 align="center">Event Request System</h3>
-
-<div align="center">
-<img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Role-Full_Stack-blue?style=for-the-badge" />
-</div>
-
-<br>
-
-**Purpose**: Streamlining spiritual event management for Gayatri Pariwar
-
-**Key Features**:
-- Multi-role authentication system
-- Real-time event tracking dashboard
-- Automated notification system
-- User, SPHead, Admin, SuperAdmin roles
-
-**Built With**:  
-`Node.js` • `Express` • `MongoDB` • `EJS` • `JWT`
-
-<div align="center">
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-00D9FF?style=for-the-badge&logo=vercel)](https://github.com/amandsvv/event-request-system)
-[![GitHub](https://img.shields.io/badge/View-Code-181717?style=for-the-badge&logo=github)](https://github.com/amandsvv/event-request-system)
-
-</div>
-
 </td>
 <td width="50%">
 
@@ -154,69 +117,6 @@ const aman = {
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-00D9FF?style=for-the-badge&logo=vercel)](https://github.com/amandsvv/task-handler)
 [![GitHub](https://img.shields.io/badge/View-Code-181717?style=for-the-badge&logo=github)](https://github.com/amandsvv/task-handler)
-
-</div>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-<h3 align="center">Roomie Splitter</h3>
-
-<div align="center">
-<img src="https://img.shields.io/badge/Status-Beta-yellow?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Type-FinTech-green?style=for-the-badge" />
-</div>
-
-<br>
-
-**Purpose**: Smart expense splitting for roommates
-
-**Key Features**:
-- Expense tracking & splitting
-- Auto balance calculations
-- Mobile-responsive design
-- Visual expense reports
-
-**Built With**:  
-`Node.js` • `Express` • `MongoDB` • `EJS`
-
-<div align="center">
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-00D9FF?style=for-the-badge&logo=vercel)](https://github.com/amandsvv/roomie-splitter)
-[![GitHub](https://img.shields.io/badge/View-Code-181717?style=for-the-badge&logo=github)](https://github.com/amandsvv/roomie-splitter)
-
-</div>
-
-</td>
-<td width="50%">
-
-<h3 align="center">More Projects</h3>
-
-<br><br>
-
-<div align="center">
-
-```
-Exploring more innovations...
-   Stay tuned for updates!
-```
-
-**Check out all my repositories:**
-
-[![Explore Projects](https://img.shields.io/badge/View_All-Repositories-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amandsvv?tab=repositories)
-
-**What's Cooking?**
-- AI-powered chatbot
-- E-commerce platform
-- Social media app
-
-</div>
-
-</td>
-</tr>
-</table>
 
 </div>
 
