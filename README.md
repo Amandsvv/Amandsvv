@@ -26,13 +26,14 @@ const aman = {
 **Stack** — Node.js · Express · MongoDB · MySQL · TailwindCSS · JavaScript · AWS · Git
 
 ---
-<a href="https://ghfind.com/u/amandsvv?ref=badge">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/amandsvv?theme=dark" />
-    <img src="https://ghfind.com/api/card/mini/amandsvv?theme=light" alt="GitHub Roast score card" width="440" />
-  </picture>
-</a>
----
+<div align="center">
+  <a href="https://ghfind.com/u/amandsvv?ref=badge">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/amandsvv?theme=dark" />
+      <img src="https://ghfind.com/api/card/mini/amandsvv?theme=light" alt="GitHub Roast score card" width="440" />
+    </picture>
+  </a>
+</div>
 
 ### GitHub
 
