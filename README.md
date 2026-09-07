@@ -26,6 +26,8 @@ const aman = {
 **Stack** — Node.js · Express · MongoDB · MySQL · TailwindCSS · JavaScript · AWS · Git
 
 ---
+[![GitHub Roast score card](https://ghfind.com/api/card/mini/amandsvv)](https://ghfind.com/u/amandsvv?ref=badge)
+---
 
 ### GitHub
 
